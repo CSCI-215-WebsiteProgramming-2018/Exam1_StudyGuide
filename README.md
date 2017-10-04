@@ -26,7 +26,7 @@ Study guide for Exam #1
     * Global
 * Git
   * git add \<file\> \<file\> \<file\>
-  *git commit -m “commit message”
+  * git commit -m “commit message”
   * git push origin master
   * Difference between fork and clone
 * Be able to:
