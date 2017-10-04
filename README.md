@@ -34,6 +34,6 @@ Study guide for Exam #1
   * Correct JavaScript errors
   * Link CSS files to HTML file
   * Link JavaScript files to HTML
-Anything we have discussed or is in Chapter 2 and 3 is fair game
+* Anything we have discussed or is in Chapter 2 and 3 is fair game
 
 
