@@ -36,4 +36,5 @@ Study guide for Exam #1
   * Link JavaScript files to HTML
 * Anything we have discussed or is in Chapter 2 and 3 is fair game
 
+# Practice writing if, if/else, for, and while loops
 
