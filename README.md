@@ -10,9 +10,14 @@ Study guide for Exam #1
   * Data types
   * Data structures
     * Arrays
+    * Map
+    * Set (theory only)
+    * Stack (theory only)
+    * Queue (theory only)
   * Conditionals
     * if
     * if/else
+    * if/else if
     * Complex conditionals
   * Loops
     * for
@@ -21,14 +26,17 @@ Study guide for Exam #1
   * Conditional operators
   * Logical operators
   * functions 
-  * Variable scope
-    * Local
-    * Global
+  * Troubleshooting
+   * console.log()
+   * alert()
+   * debugger
+  
 * Git
   * git add \<file\> \<file\> \<file\>
   * git commit -m “commit message”
   * git push origin master
   * Difference between fork and clone
+  * Difference between Git and Github
 * Be able to:
   * Identify JavaScript errors
   * Correct JavaScript errors
